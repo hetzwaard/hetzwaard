@@ -1,3 +1,3 @@
 # Hello 👋
 
-My name is Mahmut. I am Mahmut, **web developer** from Istanbul, Turkey.
+My name is Mahmut, **web developer** from Istanbul, Turkey.
