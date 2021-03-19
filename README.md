@@ -9,9 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="mahmutsedatkilic | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
+[<img align="left" alt="mahmutsedatkilic | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="mahmutsedatkilic | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 [<img align="left" alt="mahmutsedatkilic | Twitter" width="44px" src="https://cdn.discordapp.com/attachments/801094908004925470/822428709276483634/logo-de-twitter-png-1.png" />][twitter]
-[<img align="left" alt="mahmutsedatkilic | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="mahmutsedatkilic| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="mahmutsedatkilic| Steam" width="44px" src="https://cdn.discordapp.com/attachments/801094908004925470/822429289449521162/Steam_Logo.png" />][steam]
 
