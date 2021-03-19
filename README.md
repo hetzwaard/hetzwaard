@@ -1,3 +1,5 @@
-# Hi there 👋
+## Hi there 👋 My name is Mahmut.
 
-I am Mahmut, web developer from Istanbul, Turkey. I have rich experience in website design and building and customization.
+# I'm a Musician, Programmer and Designer.
+
+[ul]
