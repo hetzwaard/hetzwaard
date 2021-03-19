@@ -17,11 +17,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425042074730506/1200px-C_Sharp_wordmark.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425045082046474/PgcSR.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425046571286538/unnamed.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425043711557632/js-logo.png" />
+<img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822426031704768552/c-sharp-logo-2.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425043476021298/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425047976378398/Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425040330293278/1024px-Github-desktop-logo-symbol.svg.png" />
 
 <br />
