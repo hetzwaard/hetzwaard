@@ -15,9 +15,6 @@
 [<img align="left" alt="mahmutsedatkilic | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
 [<img align="left" alt="mahmutsedatkilic | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
-<br />
-<br />
-
 ### Languages and Tools:
 
 <br>
