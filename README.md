@@ -19,6 +19,8 @@
 
 ### Languages and Tools:
 
+<br />
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431837753966632/html-5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431839628427284/css-3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431840878854184/pngegg.png" />
