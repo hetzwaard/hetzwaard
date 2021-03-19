@@ -8,16 +8,12 @@
 
 ### Connect with me:
 
-<br>
-
 [<img align="left" alt="mahmutsedatkilic | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="mahmutsedatkilic| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="mahmutsedatkilic | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
 [<img align="left" alt="mahmutsedatkilic | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
 ### Languages and Tools:
-
-<br>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
