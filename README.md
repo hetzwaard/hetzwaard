@@ -31,4 +31,4 @@
 [discord]: https://discord.gg/CwBrNb5W6P
 [instagram]: https://www.instagram.com/mahmutsedatkilic/
 [twitch]: https://www.twitch.tv/mahmutsedatkilic
-[youtube]: https://www.youtube.com/channel/https://www.youtube.com/channel/UC2Kk3W4KIJr6FbovrnIkqOQ
+[youtube]: https://www.youtube.com/channel/UC2Kk3W4KIJr6FbovrnIkqOQ
