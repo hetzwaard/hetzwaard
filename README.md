@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<br />
+<br>
 
 [<img align="left" alt="mahmutsedatkilic | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="mahmutsedatkilic| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
@@ -17,11 +17,10 @@
 
 <br />
 <br />
-<br />
 
 ### Languages and Tools:
 
-<br />
+<br>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
