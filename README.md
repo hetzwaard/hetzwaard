@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425045082046474/PgcSR.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822427373076217916/css-logo.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425043711557632/js-logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431837753966632/html-5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431839628427284/css-3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822431840878854184/pngegg.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822430543169716294/1200px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425043476021298/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/801094908004925470/822425047976378398/Visual_Studio_Icon_2019.svg.png" />
