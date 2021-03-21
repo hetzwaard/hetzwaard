@@ -1,4 +1,4 @@
-### Hi there! My name is Mahmut. <img width=25px src="https://cdn.discordapp.com/attachments/801094908004925470/823168268143558657/WaveIcon.gif"> 
+### Hi there! My name is Mahmut. <img width=30px src="https://cdn.discordapp.com/attachments/801094908004925470/823168268143558657/WaveIcon.gif"> 
 
 ## I'm a Musician, Programmer and Designer.
 
