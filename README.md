@@ -1,4 +1,4 @@
-### Hi there! My name is Mahmut. <img width=30px src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif"> 
+### Hi there! My name is Mahmut. 👋
 
 ## I'm a Musician, Programmer and Designer.
 
