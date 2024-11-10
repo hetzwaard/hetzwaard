@@ -8,9 +8,9 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=mahmutkilic.nl)](mahmutkilic.nl)
 [![Github](https://img.shields.io/github/followers/hetzwaard?label=Follow&style=social)](https://github.com/hetzwaard)
 
-- 💻 I am a Front-End Developer, I build websites and web applications. I specialize in WordPress.
-- 🤔 I’m currently studying @ [Codam College](https://codam.nl) (42 Amsterdam) 
-- 🌱 I am learning React
+- 💻 Front-End Developer, building websites and web applications; specializing in WordPress
+- 🤔 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
+- 🌱 I am a self-taught developer who still believes coffee and debugging can fix anything
 - 📫 How to reach me: me@mahmutkilic.nl
 
 
@@ -47,19 +47,3 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetzwaard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hetzwaard/count.svg?"  />
-</div>
-
-###
