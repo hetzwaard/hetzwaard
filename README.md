@@ -5,22 +5,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutsedatkilic/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hetzwaard/)](https://www.instagram.com/hetzwaard)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:me@mahmutkilic.nl)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=mahmutkilic.nl)](mahmutkilic.nl)
+[![Website Badge](https://img.shields.io/badge/-Website-navy?style=flat&logo=Google-Chrome&logoColor=white&link=mahmutkilic.nl)](mahmutkilic.nl)
 [![Github](https://img.shields.io/github/followers/hetzwaard?label=Follow&style=social)](https://github.com/hetzwaard)
 
-- 💻 Front-End Developer, building websites and web applications; specializing in WordPress
+- 💻 Front-End Developer, building websites and web applications & specializing in WordPress
 - 🤔 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
-- 🌱 I am a self-taught developer who still believes coffee and debugging can fix anything
+- 🌱 I am a self-taught developer who still believes coffee and nicotine can fix anything
 - 📫 How to reach me: me@mahmutkilic.nl
 
-
-### 🖥 Skills
-
-- Algorithms
-- Data Structures
-- Shell Scripting
-- Computer Vision
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
