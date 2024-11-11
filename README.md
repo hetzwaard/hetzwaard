@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/hetzwaard?label=Follow&style=social)](https://github.com/hetzwaard)
 
 - 💻 Front-End Developer, building websites and web applications & specializing in WordPress
-- 🤔 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
+- 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
 - 🌱 I am a self-taught developer who still believes coffee and nicotine can fix anything
 - 📫 How to reach me: me@mahmutkilic.nl
 
