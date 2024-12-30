@@ -10,7 +10,7 @@
 
 - 💻 Full-stack Developer, building websites and web applications & specializing in WordPress
 - 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
-- 🌱 I am a self-taught developer who still believes coffee and nicotine can fix anything
+- 🌱 I am a self-taught developer who still believes caffeine can fix anything
 - 📫 How to reach me: me@mahmutkilic.nl
 
 ## ⚙️ Tech Stack
