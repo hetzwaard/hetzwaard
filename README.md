@@ -1,4 +1,4 @@
-# Hi! I am Mahmut.
+# Hi!👋 I am Mahmut.
 
 - 💻 Full Stack Developer, building websites and web applications & specializing in WordPress
 - 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
