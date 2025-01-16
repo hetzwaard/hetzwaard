@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutsedatkilic/)
+[![Linkedin]](https://www.linkedin.com/in/mahmutsedatkilic/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hetzwaard/)](https://www.instagram.com/hetzwaard)
 [![Website Badge](https://img.shields.io/badge/-Website-navy?style=flat&logo=Google-Chrome&logoColor=white&link=mahmutkilic.nl)](https://mahmutkilic.nl)
 [![Github](https://img.shields.io/github/followers/hetzwaard?label=Follow&style=social)](https://github.com/hetzwaard)
