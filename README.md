@@ -1,8 +1,10 @@
-# 👋 Hi There! I'm Mahmut
+<div align="center">
 
-- 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
-- 🌱 I am a self-taught developer who still believes caffeine can fix anything
-- 📫 How to reach me: me@mahmutkilic.nl
+<h2>👋 Hi there, I am Mahmut</h2>
+
+- 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam)  
+- 🌱 I am a self-taught developer who still believes caffeine can fix anything  
+- 📫 How to reach me: me@mahmutkilic.nl  
 
 [![mahkilic's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mahkilic?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -32,4 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
 </div>
