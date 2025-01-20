@@ -1,4 +1,4 @@
-# 👋 Hi There! I'm Mahmut.
+# 👋 Hi There! I'm Mahmut
 
 - 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam) 
 - 🌱 I am a self-taught developer who still believes caffeine can fix anything
