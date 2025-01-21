@@ -3,7 +3,7 @@
 <h1>👋 Hi there, I am Mahmut</h1>
 
 🏫 Currently a student @ [Codam College](https://codam.nl) (42 Amsterdam)  
-🌱 I am a self-taught developer who still believes caffeine can fix anything  
+🌱 Self-taught developer who still believes caffeine can fix anything  
 📫 How to reach me: me@mahmutkilic.nl  
 
 [![mahkilic's 42 stats](https://badge.mediaplus.ma/black/mahkilic?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/mahkilic)
