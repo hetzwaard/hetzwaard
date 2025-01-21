@@ -6,7 +6,7 @@
 🌱 I am a self-taught developer who still believes caffeine can fix anything  
 📫 How to reach me: me@mahmutkilic.nl  
 
-[![mahkilic's 42 stats](https://badge.mediaplus.ma/darkblue/mahkilic?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![mahkilic's 42 stats](https://badge.mediaplus.ma/darkblue/mahkilic?1337Badge=off&UM6P=off)]([https://github.com/oakoudad/badge42](https://profile.intra.42.fr/users/mahkilic))
 
 ## ⚙️ Tech Stack
 
