@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>👋 Hi there, I am Mahmut</h1>
+<h1> Hi there 👋 I am Mahmut</h1>
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
