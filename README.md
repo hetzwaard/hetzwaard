@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hi there 👋 I am Mahmut</h1>
+<h1> Hi there, I am Mahmut 👋 </h1>
 
 ## Tech Stack
 
